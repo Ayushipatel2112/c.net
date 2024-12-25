@@ -1,0 +1,14 @@
+C:\Users\dalsa\source\repos\c#\string\bin\Debug\net8.0\string.exe
+C:\Users\dalsa\source\repos\c#\string\bin\Debug\net8.0\string.deps.json
+C:\Users\dalsa\source\repos\c#\string\bin\Debug\net8.0\string.runtimeconfig.json
+C:\Users\dalsa\source\repos\c#\string\bin\Debug\net8.0\string.dll
+C:\Users\dalsa\source\repos\c#\string\bin\Debug\net8.0\string.pdb
+C:\Users\dalsa\source\repos\c#\string\obj\Debug\net8.0\string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalsa\source\repos\c#\string\obj\Debug\net8.0\string.AssemblyInfoInputs.cache
+C:\Users\dalsa\source\repos\c#\string\obj\Debug\net8.0\string.AssemblyInfo.cs
+C:\Users\dalsa\source\repos\c#\string\obj\Debug\net8.0\string.csproj.CoreCompileInputs.cache
+C:\Users\dalsa\source\repos\c#\string\obj\Debug\net8.0\string.dll
+C:\Users\dalsa\source\repos\c#\string\obj\Debug\net8.0\refint\string.dll
+C:\Users\dalsa\source\repos\c#\string\obj\Debug\net8.0\string.pdb
+C:\Users\dalsa\source\repos\c#\string\obj\Debug\net8.0\string.genruntimeconfig.cache
+C:\Users\dalsa\source\repos\c#\string\obj\Debug\net8.0\ref\string.dll

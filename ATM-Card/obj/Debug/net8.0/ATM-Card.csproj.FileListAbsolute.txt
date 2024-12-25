@@ -1,0 +1,14 @@
+C:\Users\dalsa\source\repos\c#\ATM-Card\bin\Debug\net8.0\ATM-Card.exe
+C:\Users\dalsa\source\repos\c#\ATM-Card\bin\Debug\net8.0\ATM-Card.deps.json
+C:\Users\dalsa\source\repos\c#\ATM-Card\bin\Debug\net8.0\ATM-Card.runtimeconfig.json
+C:\Users\dalsa\source\repos\c#\ATM-Card\bin\Debug\net8.0\ATM-Card.dll
+C:\Users\dalsa\source\repos\c#\ATM-Card\bin\Debug\net8.0\ATM-Card.pdb
+C:\Users\dalsa\source\repos\c#\ATM-Card\obj\Debug\net8.0\ATM-Card.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalsa\source\repos\c#\ATM-Card\obj\Debug\net8.0\ATM-Card.AssemblyInfoInputs.cache
+C:\Users\dalsa\source\repos\c#\ATM-Card\obj\Debug\net8.0\ATM-Card.AssemblyInfo.cs
+C:\Users\dalsa\source\repos\c#\ATM-Card\obj\Debug\net8.0\ATM-Card.csproj.CoreCompileInputs.cache
+C:\Users\dalsa\source\repos\c#\ATM-Card\obj\Debug\net8.0\ATM-Card.dll
+C:\Users\dalsa\source\repos\c#\ATM-Card\obj\Debug\net8.0\refint\ATM-Card.dll
+C:\Users\dalsa\source\repos\c#\ATM-Card\obj\Debug\net8.0\ATM-Card.pdb
+C:\Users\dalsa\source\repos\c#\ATM-Card\obj\Debug\net8.0\ATM-Card.genruntimeconfig.cache
+C:\Users\dalsa\source\repos\c#\ATM-Card\obj\Debug\net8.0\ref\ATM-Card.dll

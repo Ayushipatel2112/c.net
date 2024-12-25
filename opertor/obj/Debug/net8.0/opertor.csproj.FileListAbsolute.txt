@@ -1,0 +1,14 @@
+C:\Users\dalsa\source\repos\c#\opertor\bin\Debug\net8.0\opertor.exe
+C:\Users\dalsa\source\repos\c#\opertor\bin\Debug\net8.0\opertor.deps.json
+C:\Users\dalsa\source\repos\c#\opertor\bin\Debug\net8.0\opertor.runtimeconfig.json
+C:\Users\dalsa\source\repos\c#\opertor\bin\Debug\net8.0\opertor.dll
+C:\Users\dalsa\source\repos\c#\opertor\bin\Debug\net8.0\opertor.pdb
+C:\Users\dalsa\source\repos\c#\opertor\obj\Debug\net8.0\opertor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalsa\source\repos\c#\opertor\obj\Debug\net8.0\opertor.AssemblyInfoInputs.cache
+C:\Users\dalsa\source\repos\c#\opertor\obj\Debug\net8.0\opertor.AssemblyInfo.cs
+C:\Users\dalsa\source\repos\c#\opertor\obj\Debug\net8.0\opertor.csproj.CoreCompileInputs.cache
+C:\Users\dalsa\source\repos\c#\opertor\obj\Debug\net8.0\opertor.dll
+C:\Users\dalsa\source\repos\c#\opertor\obj\Debug\net8.0\refint\opertor.dll
+C:\Users\dalsa\source\repos\c#\opertor\obj\Debug\net8.0\opertor.pdb
+C:\Users\dalsa\source\repos\c#\opertor\obj\Debug\net8.0\opertor.genruntimeconfig.cache
+C:\Users\dalsa\source\repos\c#\opertor\obj\Debug\net8.0\ref\opertor.dll

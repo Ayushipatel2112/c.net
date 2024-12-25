@@ -1,0 +1,14 @@
+C:\Users\dalsa\source\repos\type_conversion\bin\Debug\net8.0\type_conversion.exe
+C:\Users\dalsa\source\repos\type_conversion\bin\Debug\net8.0\type_conversion.deps.json
+C:\Users\dalsa\source\repos\type_conversion\bin\Debug\net8.0\type_conversion.runtimeconfig.json
+C:\Users\dalsa\source\repos\type_conversion\bin\Debug\net8.0\type_conversion.dll
+C:\Users\dalsa\source\repos\type_conversion\bin\Debug\net8.0\type_conversion.pdb
+C:\Users\dalsa\source\repos\type_conversion\obj\Debug\net8.0\type_conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalsa\source\repos\type_conversion\obj\Debug\net8.0\type_conversion.AssemblyInfoInputs.cache
+C:\Users\dalsa\source\repos\type_conversion\obj\Debug\net8.0\type_conversion.AssemblyInfo.cs
+C:\Users\dalsa\source\repos\type_conversion\obj\Debug\net8.0\type_conversion.csproj.CoreCompileInputs.cache
+C:\Users\dalsa\source\repos\type_conversion\obj\Debug\net8.0\type_conversion.dll
+C:\Users\dalsa\source\repos\type_conversion\obj\Debug\net8.0\refint\type_conversion.dll
+C:\Users\dalsa\source\repos\type_conversion\obj\Debug\net8.0\type_conversion.pdb
+C:\Users\dalsa\source\repos\type_conversion\obj\Debug\net8.0\type_conversion.genruntimeconfig.cache
+C:\Users\dalsa\source\repos\type_conversion\obj\Debug\net8.0\ref\type_conversion.dll

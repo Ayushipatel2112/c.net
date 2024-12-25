@@ -1,0 +1,14 @@
+C:\Users\dalsa\source\repos\c#\condition-statement\obj\Debug\net8.0\condition-statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalsa\source\repos\c#\condition-statement\obj\Debug\net8.0\condition-statement.AssemblyInfoInputs.cache
+C:\Users\dalsa\source\repos\c#\condition-statement\obj\Debug\net8.0\condition-statement.AssemblyInfo.cs
+C:\Users\dalsa\source\repos\c#\condition-statement\obj\Debug\net8.0\condition-statement.csproj.CoreCompileInputs.cache
+C:\Users\dalsa\source\repos\c#\condition-statement\bin\Debug\net8.0\condition-statement.exe
+C:\Users\dalsa\source\repos\c#\condition-statement\bin\Debug\net8.0\condition-statement.deps.json
+C:\Users\dalsa\source\repos\c#\condition-statement\bin\Debug\net8.0\condition-statement.runtimeconfig.json
+C:\Users\dalsa\source\repos\c#\condition-statement\bin\Debug\net8.0\condition-statement.dll
+C:\Users\dalsa\source\repos\c#\condition-statement\bin\Debug\net8.0\condition-statement.pdb
+C:\Users\dalsa\source\repos\c#\condition-statement\obj\Debug\net8.0\condition-statement.dll
+C:\Users\dalsa\source\repos\c#\condition-statement\obj\Debug\net8.0\refint\condition-statement.dll
+C:\Users\dalsa\source\repos\c#\condition-statement\obj\Debug\net8.0\condition-statement.pdb
+C:\Users\dalsa\source\repos\c#\condition-statement\obj\Debug\net8.0\condition-statement.genruntimeconfig.cache
+C:\Users\dalsa\source\repos\c#\condition-statement\obj\Debug\net8.0\ref\condition-statement.dll

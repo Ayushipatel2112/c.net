@@ -1,0 +1,14 @@
+C:\Users\dalsa\source\repos\c#\switch-calculater\obj\Debug\net8.0\switch-calculater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalsa\source\repos\c#\switch-calculater\obj\Debug\net8.0\switch-calculater.AssemblyInfoInputs.cache
+C:\Users\dalsa\source\repos\c#\switch-calculater\obj\Debug\net8.0\switch-calculater.AssemblyInfo.cs
+C:\Users\dalsa\source\repos\c#\switch-calculater\obj\Debug\net8.0\switch-calculater.csproj.CoreCompileInputs.cache
+C:\Users\dalsa\source\repos\c#\switch-calculater\bin\Debug\net8.0\switch-calculater.exe
+C:\Users\dalsa\source\repos\c#\switch-calculater\bin\Debug\net8.0\switch-calculater.deps.json
+C:\Users\dalsa\source\repos\c#\switch-calculater\bin\Debug\net8.0\switch-calculater.runtimeconfig.json
+C:\Users\dalsa\source\repos\c#\switch-calculater\bin\Debug\net8.0\switch-calculater.dll
+C:\Users\dalsa\source\repos\c#\switch-calculater\bin\Debug\net8.0\switch-calculater.pdb
+C:\Users\dalsa\source\repos\c#\switch-calculater\obj\Debug\net8.0\switch-calculater.dll
+C:\Users\dalsa\source\repos\c#\switch-calculater\obj\Debug\net8.0\refint\switch-calculater.dll
+C:\Users\dalsa\source\repos\c#\switch-calculater\obj\Debug\net8.0\switch-calculater.pdb
+C:\Users\dalsa\source\repos\c#\switch-calculater\obj\Debug\net8.0\switch-calculater.genruntimeconfig.cache
+C:\Users\dalsa\source\repos\c#\switch-calculater\obj\Debug\net8.0\ref\switch-calculater.dll

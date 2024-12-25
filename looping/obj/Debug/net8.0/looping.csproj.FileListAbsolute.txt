@@ -1,0 +1,14 @@
+C:\Users\dalsa\source\repos\c#\looping\bin\Debug\net8.0\looping.exe
+C:\Users\dalsa\source\repos\c#\looping\bin\Debug\net8.0\looping.deps.json
+C:\Users\dalsa\source\repos\c#\looping\bin\Debug\net8.0\looping.runtimeconfig.json
+C:\Users\dalsa\source\repos\c#\looping\bin\Debug\net8.0\looping.dll
+C:\Users\dalsa\source\repos\c#\looping\bin\Debug\net8.0\looping.pdb
+C:\Users\dalsa\source\repos\c#\looping\obj\Debug\net8.0\looping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalsa\source\repos\c#\looping\obj\Debug\net8.0\looping.AssemblyInfoInputs.cache
+C:\Users\dalsa\source\repos\c#\looping\obj\Debug\net8.0\looping.AssemblyInfo.cs
+C:\Users\dalsa\source\repos\c#\looping\obj\Debug\net8.0\looping.csproj.CoreCompileInputs.cache
+C:\Users\dalsa\source\repos\c#\looping\obj\Debug\net8.0\looping.dll
+C:\Users\dalsa\source\repos\c#\looping\obj\Debug\net8.0\refint\looping.dll
+C:\Users\dalsa\source\repos\c#\looping\obj\Debug\net8.0\looping.pdb
+C:\Users\dalsa\source\repos\c#\looping\obj\Debug\net8.0\looping.genruntimeconfig.cache
+C:\Users\dalsa\source\repos\c#\looping\obj\Debug\net8.0\ref\looping.dll

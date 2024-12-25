@@ -1,0 +1,14 @@
+C:\Users\dalsa\source\repos\c#\Maths\bin\Debug\net8.0\Maths.exe
+C:\Users\dalsa\source\repos\c#\Maths\bin\Debug\net8.0\Maths.deps.json
+C:\Users\dalsa\source\repos\c#\Maths\bin\Debug\net8.0\Maths.runtimeconfig.json
+C:\Users\dalsa\source\repos\c#\Maths\bin\Debug\net8.0\Maths.dll
+C:\Users\dalsa\source\repos\c#\Maths\bin\Debug\net8.0\Maths.pdb
+C:\Users\dalsa\source\repos\c#\Maths\obj\Debug\net8.0\Maths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalsa\source\repos\c#\Maths\obj\Debug\net8.0\Maths.AssemblyInfoInputs.cache
+C:\Users\dalsa\source\repos\c#\Maths\obj\Debug\net8.0\Maths.AssemblyInfo.cs
+C:\Users\dalsa\source\repos\c#\Maths\obj\Debug\net8.0\Maths.csproj.CoreCompileInputs.cache
+C:\Users\dalsa\source\repos\c#\Maths\obj\Debug\net8.0\Maths.dll
+C:\Users\dalsa\source\repos\c#\Maths\obj\Debug\net8.0\refint\Maths.dll
+C:\Users\dalsa\source\repos\c#\Maths\obj\Debug\net8.0\Maths.pdb
+C:\Users\dalsa\source\repos\c#\Maths\obj\Debug\net8.0\Maths.genruntimeconfig.cache
+C:\Users\dalsa\source\repos\c#\Maths\obj\Debug\net8.0\ref\Maths.dll

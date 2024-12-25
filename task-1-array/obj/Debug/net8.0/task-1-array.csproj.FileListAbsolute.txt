@@ -1,0 +1,14 @@
+C:\Users\dalsa\source\repos\c#\task-1-array\bin\Debug\net8.0\task-1-array.exe
+C:\Users\dalsa\source\repos\c#\task-1-array\bin\Debug\net8.0\task-1-array.deps.json
+C:\Users\dalsa\source\repos\c#\task-1-array\bin\Debug\net8.0\task-1-array.runtimeconfig.json
+C:\Users\dalsa\source\repos\c#\task-1-array\bin\Debug\net8.0\task-1-array.dll
+C:\Users\dalsa\source\repos\c#\task-1-array\bin\Debug\net8.0\task-1-array.pdb
+C:\Users\dalsa\source\repos\c#\task-1-array\obj\Debug\net8.0\task-1-array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalsa\source\repos\c#\task-1-array\obj\Debug\net8.0\task-1-array.AssemblyInfoInputs.cache
+C:\Users\dalsa\source\repos\c#\task-1-array\obj\Debug\net8.0\task-1-array.AssemblyInfo.cs
+C:\Users\dalsa\source\repos\c#\task-1-array\obj\Debug\net8.0\task-1-array.csproj.CoreCompileInputs.cache
+C:\Users\dalsa\source\repos\c#\task-1-array\obj\Debug\net8.0\task-1-array.dll
+C:\Users\dalsa\source\repos\c#\task-1-array\obj\Debug\net8.0\refint\task-1-array.dll
+C:\Users\dalsa\source\repos\c#\task-1-array\obj\Debug\net8.0\task-1-array.pdb
+C:\Users\dalsa\source\repos\c#\task-1-array\obj\Debug\net8.0\task-1-array.genruntimeconfig.cache
+C:\Users\dalsa\source\repos\c#\task-1-array\obj\Debug\net8.0\ref\task-1-array.dll

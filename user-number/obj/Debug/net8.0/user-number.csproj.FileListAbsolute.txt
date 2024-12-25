@@ -1,0 +1,14 @@
+C:\Users\dalsa\source\repos\user-number\bin\Debug\net8.0\user-number.exe
+C:\Users\dalsa\source\repos\user-number\bin\Debug\net8.0\user-number.deps.json
+C:\Users\dalsa\source\repos\user-number\bin\Debug\net8.0\user-number.runtimeconfig.json
+C:\Users\dalsa\source\repos\user-number\bin\Debug\net8.0\user-number.dll
+C:\Users\dalsa\source\repos\user-number\bin\Debug\net8.0\user-number.pdb
+C:\Users\dalsa\source\repos\user-number\obj\Debug\net8.0\user-number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalsa\source\repos\user-number\obj\Debug\net8.0\user-number.AssemblyInfoInputs.cache
+C:\Users\dalsa\source\repos\user-number\obj\Debug\net8.0\user-number.AssemblyInfo.cs
+C:\Users\dalsa\source\repos\user-number\obj\Debug\net8.0\user-number.csproj.CoreCompileInputs.cache
+C:\Users\dalsa\source\repos\user-number\obj\Debug\net8.0\user-number.dll
+C:\Users\dalsa\source\repos\user-number\obj\Debug\net8.0\refint\user-number.dll
+C:\Users\dalsa\source\repos\user-number\obj\Debug\net8.0\user-number.pdb
+C:\Users\dalsa\source\repos\user-number\obj\Debug\net8.0\user-number.genruntimeconfig.cache
+C:\Users\dalsa\source\repos\user-number\obj\Debug\net8.0\ref\user-number.dll
